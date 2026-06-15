@@ -14,6 +14,6 @@ complete perception to decision pipeline for first-person perspective scene and 
 baseline for future wearable navigation and assistive vision area.
 
 
-[demostop.pdf](https://github.com/user-attachments/files/28946039/demostop.pdf)
-[demogo.pdf](https://github.com/user-attachments/files/28946037/demogo.pdf)
+![image](Spatio-Temporal-Multitask-Transformers-for-Egocentric-Scene-Understanding-and-Decision-Making/vasco/demogo.pdf)
+![image](Spatio-Temporal-Multitask-Transformers-for-Egocentric-Scene-Understanding-and-Decision-Making/vasco/demostop.pdf)
 
