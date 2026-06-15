@@ -12,3 +12,8 @@ and direction prediction. The two-stage ego framework also achieves more stable 
 behavior and better ego decision-making performance. In summary, this work provides a
 complete perception to decision pipeline for first-person perspective scene and offers a
 baseline for future wearable navigation and assistive vision area.
+
+
+[demostop.pdf](https://github.com/user-attachments/files/28946039/demostop.pdf)
+[demogo.pdf](https://github.com/user-attachments/files/28946037/demogo.pdf)
+
