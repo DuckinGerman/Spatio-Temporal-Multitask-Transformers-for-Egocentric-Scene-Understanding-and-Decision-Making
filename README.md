@@ -14,6 +14,6 @@ complete perception to decision pipeline for first-person perspective scene and 
 baseline for future wearable navigation and assistive vision area.
 
 
-![image](vasco/demogo.pdf)
-![image](vasco/demogo.pdf)
+![image](vasco/demogo.png)
+![image](vasco/demogo.png)
 
