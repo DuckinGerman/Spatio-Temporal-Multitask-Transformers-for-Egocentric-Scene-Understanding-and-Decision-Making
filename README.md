@@ -17,3 +17,5 @@ baseline for future wearable navigation and assistive vision area.
 ![image](vasco/demogo.png)
 ![image](vasco/demostop.png)
 
+![image](demo.gif)
+
